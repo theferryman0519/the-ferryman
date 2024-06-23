@@ -1,0 +1,1765 @@
+fileFormatVersion: 2
+guid: c8207fcae60954dfea3d3d615e697a9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5355944154977122853
+    second: BannerButton_Coins_0
+  - first:
+      213: -5024401912591970033
+    second: BannerButton_Coins_1
+  - first:
+      213: -7024668277476638311
+    second: BannerButton_Coins_2
+  - first:
+      213: 9149805746478390110
+    second: BannerButton_Coins_3
+  - first:
+      213: -5830722112192359315
+    second: BannerButton_Coins_4
+  - first:
+      213: -8397110624739641186
+    second: BannerButton_Coins_5
+  - first:
+      213: -7139829263072554888
+    second: BannerButton_Coins_6
+  - first:
+      213: -5663412465388004948
+    second: BannerButton_Coins_7
+  - first:
+      213: 3250172100685473193
+    second: BannerButton_Coins_8
+  - first:
+      213: 8361164528835122578
+    second: BannerButton_Coins_9
+  - first:
+      213: -2303090813380220485
+    second: BannerButton_Coins_10
+  - first:
+      213: -1162003663303847636
+    second: BannerButton_Coins_11
+  - first:
+      213: -2656872361966748990
+    second: BannerButton_Coins_12
+  - first:
+      213: -2286421937672539604
+    second: BannerButton_Coins_13
+  - first:
+      213: -7879817913253870454
+    second: BannerButton_Coins_14
+  - first:
+      213: 2988099977724872354
+    second: BannerButton_Coins_15
+  - first:
+      213: 3396181666013990794
+    second: BannerButton_Coins_16
+  - first:
+      213: 827613085434825840
+    second: BannerButton_Coins_17
+  - first:
+      213: -5137894371348587265
+    second: BannerButton_Coins_18
+  - first:
+      213: 6540106767924640040
+    second: BannerButton_Coins_19
+  - first:
+      213: 9035677345192042044
+    second: BannerButton_Coins_20
+  - first:
+      213: 2079396785638907478
+    second: BannerButton_Coins_21
+  - first:
+      213: 6164410624344716341
+    second: BannerButton_Coins_22
+  - first:
+      213: -4092964500245726330
+    second: BannerButton_Coins_23
+  - first:
+      213: -95714541756300168
+    second: BannerButton_Coins_24
+  - first:
+      213: -8774872663000576218
+    second: BannerButton_Coins_25
+  - first:
+      213: -4651617265048823411
+    second: BannerButton_Coins_26
+  - first:
+      213: -4627681705616488546
+    second: BannerButton_Coins_27
+  - first:
+      213: 1244781134828611936
+    second: BannerButton_Coins_28
+  - first:
+      213: -3257045117930617355
+    second: BannerButton_Coins_29
+  - first:
+      213: 5710487855492688840
+    second: BannerButton_Coins_30
+  - first:
+      213: 553805291989493043
+    second: BannerButton_Coins_31
+  - first:
+      213: 2979014227117029928
+    second: BannerButton_Coins_32
+  - first:
+      213: 6802325906795733732
+    second: BannerButton_Coins_33
+  - first:
+      213: -59438397733190280
+    second: BannerButton_Coins_34
+  - first:
+      213: -570383635352226548
+    second: BannerButton_Coins_35
+  - first:
+      213: -1174897653621932188
+    second: BannerButton_Coins_36
+  - first:
+      213: -7879427587009957324
+    second: BannerButton_Coins_37
+  - first:
+      213: 7042623631194970963
+    second: BannerButton_Coins_38
+  - first:
+      213: -8683134699031017679
+    second: BannerButton_Coins_39
+  - first:
+      213: -3832831005194298994
+    second: BannerButton_Coins_40
+  - first:
+      213: 889792372706797164
+    second: BannerButton_Coins_41
+  - first:
+      213: 2548983874822102762
+    second: BannerButton_Coins_42
+  - first:
+      213: -884465544992453178
+    second: BannerButton_Coins_43
+  - first:
+      213: -3537491524480523718
+    second: BannerButton_Coins_44
+  - first:
+      213: 2891189577235395530
+    second: BannerButton_Coins_45
+  - first:
+      213: -5816501383339906906
+    second: BannerButton_Coins_46
+  - first:
+      213: 1745244103473708956
+    second: BannerButton_Coins_47
+  - first:
+      213: 4525972019377173507
+    second: BannerButton_Coins_48
+  - first:
+      213: -3281419689799005799
+    second: BannerButton_Coins_49
+  - first:
+      213: 3271339127321213336
+    second: BannerButton_Coins_50
+  - first:
+      213: 2588374137255236624
+    second: BannerButton_Coins_51
+  - first:
+      213: 2970775583093214698
+    second: BannerButton_Coins_52
+  - first:
+      213: -6834086935457021924
+    second: BannerButton_Coins_53
+  - first:
+      213: -4065798108171961463
+    second: BannerButton_Coins_54
+  - first:
+      213: -7249013727234195186
+    second: BannerButton_Coins_55
+  - first:
+      213: 2283917026328074818
+    second: BannerButton_Coins_56
+  - first:
+      213: 8107224605323469980
+    second: BannerButton_Coins_57
+  - first:
+      213: 8846977243803262935
+    second: BannerButton_Coins_58
+  - first:
+      213: -4444954737898191962
+    second: BannerButton_Coins_59
+  - first:
+      213: 4175145838643089025
+    second: BannerButton_Coins_60
+  - first:
+      213: -8813765598299932798
+    second: BannerButton_Coins_61
+  - first:
+      213: -6268757272986419247
+    second: BannerButton_Coins_62
+  - first:
+      213: -2793521030754559488
+    second: BannerButton_Coins_63
+  - first:
+      213: -8298579587835341368
+    second: BannerButton_Coins_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BannerButton_Coins_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 722
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52abd3af4d2245a40800000000000000
+      internalID: 5355944154977122853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 599
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f019927b41db54ab0800000000000000
+      internalID: -5024401912591970033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_2
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 581
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991cc008b6d538e90800000000000000
+      internalID: -7024668277476638311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 568
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b1ca249d3aafe70800000000000000
+      internalID: 9149805746478390110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 555
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6452c6a12d151fa0800000000000000
+      internalID: -5830722112192359315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 548
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e983cb86068777b80800000000000000
+      internalID: -8397110624739641186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 530
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8701f991d1b3aec90800000000000000
+      internalID: -7139829263072554888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 132
+        width: 615
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca957086e548761b0800000000000000
+      internalID: -5663412465388004948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_8
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 374
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a52e303e4eea1d20800000000000000
+      internalID: 3250172100685473193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_9
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 410
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29550d1f6d2d80470800000000000000
+      internalID: 8361164528835122578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 451
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9a1078b17c900e0800000000000000
+      internalID: -2303090813380220485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_11
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 359
+        width: 257
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21521523dbbfdfe0800000000000000
+      internalID: -1162003663303847636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_12
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 315
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca3b6bd9a4e02bd0800000000000000
+      internalID: -2656872361966748990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_13
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 290
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c223e569c5ff440e0800000000000000
+      internalID: -2286421937672539604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 19
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a844eb16b5345a290800000000000000
+      internalID: -7879817913253870454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6c4ad191dd77920800000000000000
+      internalID: 2988099977724872354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 221
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f45734b39a12f20800000000000000
+      internalID: 3396181666013990794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ccec067b54c7b00800000000000000
+      internalID: 827613085434825840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcd94e7a4882b8b0800000000000000
+      internalID: -5137894371348587265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 246
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829b647547023ca50800000000000000
+      internalID: 6540106767924640040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 73
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e57312cac256d70800000000000000
+      internalID: 9035677345192042044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 86
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e98130c508bdc10800000000000000
+      internalID: 2079396785638907478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 99
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534f5b96dc26c8550800000000000000
+      internalID: 6164410624344716341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_23
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 73
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bb194f87ed237c0800000000000000
+      internalID: -4092964500245726330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_24
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 83
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c6c2a124fbaef0800000000000000
+      internalID: -95714541756300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_25
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 96
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f8094edc3693680800000000000000
+      internalID: -8774872663000576218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_26
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 114
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89d0b52eb2227fb0800000000000000
+      internalID: -4651617265048823411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_27
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 137
+        width: 17
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97c72bd10c27cfb0800000000000000
+      internalID: -4627681705616488546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_28
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 63
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0692194d8d9564110800000000000000
+      internalID: 1244781134828611936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_29
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 58
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f54358c8b6acc2d0800000000000000
+      internalID: -3257045117930617355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_30
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 65
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbe2d8f27abf3f40800000000000000
+      internalID: 5710487855492688840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_31
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 121
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e3c79af28fa700800000000000000
+      internalID: 553805291989493043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_32
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a3524f7a5975920800000000000000
+      internalID: 2979014227117029928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e22ff83f57b66e50800000000000000
+      internalID: 6802325906795733732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 47
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87548199715dc2ff0800000000000000
+      internalID: -59438397733190280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_35
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 53
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05722d0b179518f0800000000000000
+      internalID: -570383635352226548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 63
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fbc641fcce1bfe0800000000000000
+      internalID: -1174897653621932188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 81
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432bbda4b56a6a290800000000000000
+      internalID: -7879427587009957324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_38
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 70
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bd52011ec6cb160800000000000000
+      internalID: 7042623631194970963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_39
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 58
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13743671ffe4f7780800000000000000
+      internalID: -8683134699031017679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_40
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 53
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e895a4b028c0fcac0800000000000000
+      internalID: -3832831005194298994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_41
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 50
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c666a0bd27d295c00800000000000000
+      internalID: 889792372706797164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_42
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 47
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee58fc345fcf5320800000000000000
+      internalID: 2548983874822102762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_43
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 45
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd07aed54fb9b3f0800000000000000
+      internalID: -884465544992453178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_44
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 45
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32226f633e48eec0800000000000000
+      internalID: -3537491524480523718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_45
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 45
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac37d613a919f1820800000000000000
+      internalID: 2891189577235395530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_46
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 47
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8e47a1fc2a74fa0800000000000000
+      internalID: -5816501383339906906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_47
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 50
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f35e1f34a583810800000000000000
+      internalID: 1745244103473708956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_48
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 53
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304755e629b7fce30800000000000000
+      internalID: 4525972019377173507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_49
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 96
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999ce868d2e0672d0800000000000000
+      internalID: -3281419689799005799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 83
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89931df9a91266d20800000000000000
+      internalID: 3271339127321213336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_51
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 47
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01418e46090cbe320800000000000000
+      internalID: 2588374137255236624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedcca927a05a3920800000000000000
+      internalID: 2970775583093214698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_53
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1042f704227821a0800000000000000
+      internalID: -6834086935457021924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_54
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b74f189226397c0800000000000000
+      internalID: -4065798108171961463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 70
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0186480c64566b90800000000000000
+      internalID: -7249013727234195186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 58
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a50ca4f6a12bf10800000000000000
+      internalID: 2283917026328074818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 341
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94ac9a13d5a28070800000000000000
+      internalID: 8107224605323469980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_58
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 357
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df9bd01ee6c6ca70800000000000000
+      internalID: 8846977243803262935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_59
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 63
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a383ec57395052c0800000000000000
+      internalID: -4444954737898191962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_60
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 45
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e85c5f40911f930800000000000000
+      internalID: 4175145838643089025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_61
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 212
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28736cbb2e63fa580800000000000000
+      internalID: -8813765598299932798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_62
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 55
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df7f783976e009a0800000000000000
+      internalID: -6268757272986419247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 22
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a9a495c6b6b39d0800000000000000
+      internalID: -2793521030754559488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerButton_Coins_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 76
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c554c625d585dc80800000000000000
+      internalID: -8298579587835341368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BannerButton_Coins_0: 5355944154977122853
+      BannerButton_Coins_1: -5024401912591970033
+      BannerButton_Coins_10: -2303090813380220485
+      BannerButton_Coins_11: -1162003663303847636
+      BannerButton_Coins_12: -2656872361966748990
+      BannerButton_Coins_13: -2286421937672539604
+      BannerButton_Coins_14: -7879817913253870454
+      BannerButton_Coins_15: 2988099977724872354
+      BannerButton_Coins_16: 3396181666013990794
+      BannerButton_Coins_17: 827613085434825840
+      BannerButton_Coins_18: -5137894371348587265
+      BannerButton_Coins_19: 6540106767924640040
+      BannerButton_Coins_2: -7024668277476638311
+      BannerButton_Coins_20: 9035677345192042044
+      BannerButton_Coins_21: 2079396785638907478
+      BannerButton_Coins_22: 6164410624344716341
+      BannerButton_Coins_23: -4092964500245726330
+      BannerButton_Coins_24: -95714541756300168
+      BannerButton_Coins_25: -8774872663000576218
+      BannerButton_Coins_26: -4651617265048823411
+      BannerButton_Coins_27: -4627681705616488546
+      BannerButton_Coins_28: 1244781134828611936
+      BannerButton_Coins_29: -3257045117930617355
+      BannerButton_Coins_3: 9149805746478390110
+      BannerButton_Coins_30: 5710487855492688840
+      BannerButton_Coins_31: 553805291989493043
+      BannerButton_Coins_32: 2979014227117029928
+      BannerButton_Coins_33: 6802325906795733732
+      BannerButton_Coins_34: -59438397733190280
+      BannerButton_Coins_35: -570383635352226548
+      BannerButton_Coins_36: -1174897653621932188
+      BannerButton_Coins_37: -7879427587009957324
+      BannerButton_Coins_38: 7042623631194970963
+      BannerButton_Coins_39: -8683134699031017679
+      BannerButton_Coins_4: -5830722112192359315
+      BannerButton_Coins_40: -3832831005194298994
+      BannerButton_Coins_41: 889792372706797164
+      BannerButton_Coins_42: 2548983874822102762
+      BannerButton_Coins_43: -884465544992453178
+      BannerButton_Coins_44: -3537491524480523718
+      BannerButton_Coins_45: 2891189577235395530
+      BannerButton_Coins_46: -5816501383339906906
+      BannerButton_Coins_47: 1745244103473708956
+      BannerButton_Coins_48: 4525972019377173507
+      BannerButton_Coins_49: -3281419689799005799
+      BannerButton_Coins_5: -8397110624739641186
+      BannerButton_Coins_50: 3271339127321213336
+      BannerButton_Coins_51: 2588374137255236624
+      BannerButton_Coins_52: 2970775583093214698
+      BannerButton_Coins_53: -6834086935457021924
+      BannerButton_Coins_54: -4065798108171961463
+      BannerButton_Coins_55: -7249013727234195186
+      BannerButton_Coins_56: 2283917026328074818
+      BannerButton_Coins_57: 8107224605323469980
+      BannerButton_Coins_58: 8846977243803262935
+      BannerButton_Coins_59: -4444954737898191962
+      BannerButton_Coins_6: -7139829263072554888
+      BannerButton_Coins_60: 4175145838643089025
+      BannerButton_Coins_61: -8813765598299932798
+      BannerButton_Coins_62: -6268757272986419247
+      BannerButton_Coins_63: -2793521030754559488
+      BannerButton_Coins_64: -8298579587835341368
+      BannerButton_Coins_7: -5663412465388004948
+      BannerButton_Coins_8: 3250172100685473193
+      BannerButton_Coins_9: 8361164528835122578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
